@@ -38,10 +38,6 @@ If you use MIMIC-IV Data Pipeline, we would appreciate citations to the followin
 
 Go to https://physionet.org/content/mimiciv/3.1/ to get the latest version of MIMIC-IV.
 
-Follow instructions to get access to MIMIC-IV dataset.
-
-Download the files using your terminal: wget -r -N -c -np --user mehakg --ask-password https://physionet.org/files/mimiciv/1.0/
-
 ### Repository Structure
 
 - **mainPipeline.ipynb**
