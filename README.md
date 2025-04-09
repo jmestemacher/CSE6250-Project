@@ -90,6 +90,9 @@ Download the files using your terminal: wget -r -N -c -np --user mehakg --ask-pa
 ### How to use the pipeline?
 - After downloading the repo, open **mainPipeline.ipynb**.
 - **mainPipeline.ipynb**, contains sequential code blocks to extract, preprocess, model and train MIMIC-IV EHR data.
-- Follow each code bloack and read intructions given just before each code block to run code block.
+- Follow each code block and read instructions given just before each code block to run that code block.
 - Follow the exact file paths and filenames given in instructions for each code block to run the pipeline.
 - For evaluation module, clear instructions are provided on how to use it as a standalone module.
+
+**Notes by Josh and Shailesh:**
+Above is the base read me description for the original paper. We added onto the project several improvements, such as fixing bugs, converting code to PySpark, adding the options to use more models, etc.
