@@ -36,7 +36,7 @@ If you use MIMIC-IV Data Pipeline, we would appreciate citations to the followin
 
 ### Steps to download MIMIC-IV dataset for the pipeline
 
-Go to https://physionet.org/content/mimiciv/1.0/
+Go to https://physionet.org/content/mimiciv/3.1/ to get the latest version of MIMIC-IV.
 
 Follow instructions to get access to MIMIC-IV dataset.
 
